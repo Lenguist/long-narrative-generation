@@ -1,0 +1,37 @@
+{
+    "len100": [
+        "In this captivating story, a timid and socially awkward programmer stumbles upon an enigmatic app capable of foreseeing and influencing the future. As they gain more predictions, their self-assurance surges, enabling them to make daring choices that defy conventional limits. Yet, with this immense power, they realize the weighty burden of responsibility. As unforeseen repercussions arise, they find themselves grappling with a crucial decision: Are the advantages of knowing the future worth the inevitable drawbacks? Can they navigate the risks or will the overwhelming power consume them entirely? This compelling narrative explores the intricate relationship between power and consequence.",
+        "In this riveting story, a brilliant scientist makes a groundbreaking breakthrough in finding a cure for aging. However, he finds himself plagued with a difficult dilemma: how should he distribute this life-changing remedy? As the clock ticks towards the momentous announcement, he grapples with the realization that his choice could have far-reaching consequences for society and mankind's role in the world. Balancing the weight of potential benefits against the possible risks, he must make a decision that will not only save countless lives but also have a profound impact on the future of humanity. This thought-provoking tale delves into the ethical complexities of scientific progress.",
+        "In this gripping story, a single mother finds herself at a crossroads when she unexpectedly comes across a lost wallet full of money. With her financial struggles, this discovery presents her with a moral dilemma. Should she choose to return the wallet, thereby sacrificing potential support for her family, or keep the money, knowing that it could provide stability for them? The weight of her decision extends beyond her own life, as it will have far-reaching consequences for those close to her. Brace yourself for a tale that explores the depths of human morality and the complexity of personal choices.",
+        "In a bleak and post-apocalyptic world, survivors unite in a science fiction narrative that centers around building a better future. With a focus on inclusion, empathy, and technological advancements, these individuals band together to construct a new society. But complications arise when they discover the existence of other survivor factions, each steeped in their own beliefs on how to rebuild the world. A rival group with extremist right-wing ideologies emerges, disrupting the harmony. The fate of these socially-conscious survivors hangs in the balance as they strive to overcome the challenges posed by their reactionary adversaries. Will their vision of a compassionate society prevail?",
+        "Dr. Alex Blake, a well-known neuroscientist, embarks on an extraordinary mission after a life-changing accident. Determined to extend his lifespan, he takes on the seemingly impossible task of transferring his consciousness into a machine. This desperate attempt pushes the boundaries of scientific exploration and forces Dr. Blake to confront the limits of mortality. As he ventures into uncharted territory, he grapples with the ethical implications and philosophical questions surrounding the essence of human existence. This gripping tale delves deep into the human desire for immortality and the sacrifices one may make in the pursuit of eternal life."
+    ],
+    "len50": [
+        "In this gripping story, a timid programmer stumbles upon a powerful app that foretells and alters the future. As their confidence soars, they take daring risks, defying limits. But as unexpected consequences arise, they face a crucial choice: to embrace the app's benefits or suffer its destructive consequences.",
+        "A prominent scientist has found a remedy for aging. However, he grapples with the dilemma of how to allocate it, realizing that the implications could greatly impact society and humanity's standing. As the countdown to the announcement begins, he must deliberate the potential to save lives versus the consequences for humanity, ultimately making a decision that will shape society's future.",
+        "In this story, a single mother in financial hardship comes across a lost wallet brimming with money. What follows is a complex moral dilemma: should she return the wallet, ensuring its rightful owner receives it, or keep the money to secure a better life for her family? Whatever choice she makes, it will shape not only her own future but also the lives of those connected to her.",
+        "In a bleak, post-apocalyptic world, a group of survivors unites to construct a new society based on compassion, diversity, and advanced technology. Yet, they discover that others have also endured, leading to clashes between differing visions for rebuilding humanity. As an extremist group emerges, will the socially conscious prevail over their reactionary adversaries?",
+        "After a life-altering accident, Dr. Alex Blake, a renowned neuroscientist, endeavors to achieve the impossible: transferring his consciousness into a machine as a last-ditch attempt to extend his life."
+    ],
+    "len20": [
+        "A timid programmer finds an app that predicts the future, boosting their confidence. But with power comes responsibility.",
+        "A scientist finds a cure for aging but wonders about the societal implications and struggles with the decision.",
+        "A single mother finds a wallet filled with cash, struggling with the ethical dilemma of returning it or using it for her family's welfare.",
+        "In a post-apocalyptic world, survivors unite to build a society emphasizing inclusion, empathy, and innovation. Challenges arise when rival group with extreme beliefs emerges. Will socially-conscious survivors overcome?",
+        "After an accident, Dr. Alex Blake, a neuroscientist, tries to transfer his consciousness into a machine to extend his life."
+    ],
+    "len10": [
+        "Programmer finds app that predicts the future, but faces consequences.",
+        "Scientist finds a cure for aging, debates consequences and distribution.",
+        "A struggling single mother finds a lost wallet, facing moral dilemma.",
+        "A post-apocalyptic society works to build a better world, faces conflict.",
+        "Dr. Alex Blake strives to transfer his consciousness into a machine."
+    ],
+    "len5": [
+        "App predicts future, tests programmer.",
+        "Scientist debates cure, society's future.",
+        "Single mother finds lost wallet.",
+        "Post-apocalyptic survivors build inclusive society.",
+        "Dr. Blake transfers consciousness into machine."
+    ]
+}
