@@ -1,0 +1,7 @@
+conda info --envs
+
+VLLM does not work without CUDA
+
+modifying requirements.txt to remove VLLM
+for premise generation to work, update config to use openai and also
+export openai api key from saved messages
