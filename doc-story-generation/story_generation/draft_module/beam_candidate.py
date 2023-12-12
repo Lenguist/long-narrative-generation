@@ -101,7 +101,7 @@ class BeamCandidate:
         for ent in matched_entities:
             entity = copied_entities[ent]
             contradictions[ent] = entity.infer_attributes(completion, self.model, detect_contradictions=detect_contradictions, other_names=[name for name in matched_entities if name != entity.name] + list(new_entities))
-            cached_update_dict[ent] = entity
+            cachedf_update_dict[ent] = entity
         _, additional_contradictions = complete_mutual_relations(copied_entities, self.model)
         for ent in additional_contradictions:
             for key in additional_contradictions[ent]:
