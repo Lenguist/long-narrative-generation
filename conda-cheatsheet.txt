@@ -19,3 +19,13 @@ python story/generate
 okay problem i run into - it's very hard to generate texts due to errs
 can fuck around with LLama or just with this for longer but is not in my best interest
 focus on reranker from now on.
+
+the docstorygen-v2 reranker depends on logprobs
+the docstorygen original reranker uses trained longformer models for this purpose
+
+main.py loads controllers
+
+controllers are then passed to beam candidate
+
+let's examine load controller from controller util
+let's examine beam candidate

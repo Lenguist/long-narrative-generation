@@ -1,3 +1,6 @@
 .DS_Store
 story_annotation_v2.json
 doc_data.zip
+doc_outputs.zip
+doc-story-generation/doc_data
+doc_outputs
