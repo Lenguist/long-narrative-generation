@@ -5,3 +5,17 @@ VLLM does not work without CUDA
 modifying requirements.txt to remove VLLM
 for premise generation to work, update config to use openai and also
 export openai api key from saved messages
+
+python start_servers.py --step {premise/plan/story}
+
+python {premise/plan/story}/generate.py
+
+python start_servers.py --step story
+
+
+python story/generate
+
+
+okay problem i run into - it's very hard to generate texts due to errs
+can fuck around with LLama or just with this for longer but is not in my best interest
+focus on reranker from now on.

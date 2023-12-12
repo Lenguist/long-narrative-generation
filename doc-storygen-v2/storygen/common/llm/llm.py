@@ -114,6 +114,7 @@ class LLMClient:
                         texts[i] = text[len(prompt_builder.response_prefix.format()):]
         else:
             params = sampling_config.dict()
+            params["model"] ="text-davinci-003"
             if 'logit_bias' in params:
                 del params['logit_bias'] # vllm doesn't yet support logit bias
             with time_limit(kwargs.get('time_limit', 30)):
