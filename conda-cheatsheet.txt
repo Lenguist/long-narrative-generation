@@ -12,6 +12,7 @@ python {premise/plan/story}/generate.py
 
 python start_servers.py --step story
 
+python start_servers.py --step plan
 
 python story/generate
 
