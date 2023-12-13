@@ -12,8 +12,9 @@ python {premise/plan/story}/generate.py
 
 python start_servers.py --step story
 
+python start_servers.py --step plan
 
-python story/generate
+python plan/generate.py
 
 
 okay problem i run into - it's very hard to generate texts due to errs
