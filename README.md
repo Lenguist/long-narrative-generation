@@ -2,7 +2,6 @@
 This is a repository for research on long narrative generation. Specifically latest additions are dealing with developing automated metrics for long story evaluation.
 Work performed for Language Generation and Summarization seminar at Columbia University.
 
-
 The goal of this research was to develop automated metrics for evaluating coherence and premise relevance of AI generated stories of 1000+ words. For this purpose I leveraged data released by DOC as a gold standard human judgement with which to compare my metrics. The proposed metrics include heurstics, zero-shot and few-shot GPT3.5 answers, and longformer-classifier models trained on both synthetic data and human preferences.
 
 We have also originally wanted to use reranker module from docstorygen but found it performed poorly in preliminary experimentation. You check that work in docstorygen folder in reranker file.
@@ -10,6 +9,8 @@ We have also originally wanted to use reranker module from docstorygen but found
 Additionally we tried to use reranker from docstorygen-v2, but it relies on openai logprobs which have been deprecated. You can check that out too in docstorygen-v2 folder.
 
 All code in ipynb files have been written by me. Code in docstorygen and docstorygen-v2 is cloned from the original repositories.
+
+NOTE: you need to put your openai api key in some places to run code. Usually it's very prominent in the first or second cell.
 
 ## Data
 To download adapted human annotation preference data and synthetic training datasets for relevance and coherence follow this link:
