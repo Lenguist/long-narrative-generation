@@ -9,6 +9,8 @@ We have also originally wanted to use reranker module from docstorygen but found
 
 Additionally we tried to use reranker from docstorygen-v2, but it relies on openai logprobs which have been deprecated. You can check that out too in docstorygen-v2 folder.
 
+All code in ipynb files have been written by me. Code in docstorygen and docstorygen-v2 is cloned from the original repositories.
+
 ## Data
 To download adapted human annotation preference data and synthetic training datasets for relevance and coherence follow this link:
 
