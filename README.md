@@ -14,7 +14,7 @@ NOTE: you need to put your openai api key in some places to run code. Usually it
 
 ## Data
 To download adapted human annotation preference data and synthetic training datasets for relevance and coherence follow this link:
-
+[link]https://drive.google.com/file/d/1nwHM6UmgJKZY1XpI3AKAyfekEFE3Y8ty/view?usp=drive_link
 The data was adapted from docpstorygen-v2 (link) dataset of generated short stories.
 To generate your own synthetic data using synethtic-data.ipynb.
 
